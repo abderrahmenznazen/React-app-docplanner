@@ -1,0 +1,15 @@
+.paragr{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    color: #747474;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    letter-spacing:1px;
+    line-height: 1.6;
+    padding: 20px;
+}
+.pr-ch{
+    padding: 20px;
+}

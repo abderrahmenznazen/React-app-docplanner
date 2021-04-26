@@ -1,0 +1,26 @@
+.navbar {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   height: 70px;
+   background-color: rgb(255, 255, 255);
+   box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.1) ;
+}
+.nav-lien {
+  list-style: none;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  text-align: center;
+  align-items: center;
+  color: #74747498;
+  font-size: 15px;
+}
+.nav-lien :hover{
+
+  color: #00b39b;
+}
+
+.logo{
+  width: 268px;
+  height: 68px;
+}
